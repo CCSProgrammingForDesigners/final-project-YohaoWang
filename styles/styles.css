@@ -1,0 +1,106 @@
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+.head-container {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 1000px;
+    border: solid 2px black;
+    align-items: center;
+
+}
+
+.first-point {
+    background: black;
+    height: 10px;
+    width: 10px;
+    border-radius: 999px;
+
+}
+
+.body-container {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 1000px;
+    border: solid 2px black;
+    align-items: center;
+}
+
+.first-body-container {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 500px;
+    border: solid 2px black;
+    align-items: center;
+}
+
+.second-body-container {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 500px;
+    border: solid 2px black;
+    align-items: center;
+}
+
+
+.second-point {
+    background: black;
+    height: 10px;
+    width: 10px;
+    border-radius: 999px;
+}
+
+.third-point {
+    background: black;
+    height: 10px;
+    width: 10px;
+    border-radius: 999px;
+}
+
+
+.foot-container {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 1000px;
+    border: solid 2px black;
+    align-items: center;
+}
+
+.first-foot-container {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 500px;
+    border: solid 2px black;
+    align-items: center;
+}
+
+.second-foot-container {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 500px;
+    border: solid 2px black;
+    align-items: center;
+}
+
+.forth-point {
+    background: black;
+    height: 10px;
+    width: 10px;
+    border-radius: 999px;
+}
+
+.fifth-point {
+    background: black;
+    height: 10px;
+    width: 10px;
+    border-radius: 999px;
+}
